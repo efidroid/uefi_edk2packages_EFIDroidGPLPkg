@@ -21,6 +21,7 @@
   UefiDriverEntryPoint
   InterruptsLib
   UefiLib
+  IoLib
 
 [Protocols]
   gQcomGpioTlmmInterruptProtocolGuid
